@@ -22,16 +22,16 @@ lons = good_zips["LNG"].values
 zips = good_zips["zipcode"].values
 
 # Defining all our API values that we'll use later in the API queries.
-api_key = 'XcdWax2Nw6JI5oheYhiipXaeo9uiTObT3XJNYFYt'
+api_key = 'Y6qTHzw7Rvgpeppb2C7Fv2J9OxVr3cSo3vh9TvrP'
 attributes = 'ghi,dhi,dni,wind_speed_10m_nwp,surface_air_temperature_nwp,solar_zenith_angle'
 year = '2015'
 leap_year = 'false'
 interval = '60'
 utc = 'false'
-your_name = 'evan+baker'
+your_name = 'ouvik+banerjee'
 reason_for_use = 'beta+testing'
 your_affiliation = 'General+Assembly'
-your_email = 'evancasebaker@gmail.com'
+your_email = 'saouvik01@gmail.com@gmail.com'
 mailing_list='true'
 
 
